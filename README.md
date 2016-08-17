@@ -15,4 +15,4 @@ Convolution is an incredibly important concept in many areas of math and enginee
 
 ![screenshot2](https://raw.githubusercontent.com/mhrimaz/ImageProcessingJavaFX/master/Emboss.png "Emboss")
 
-![screenshot3](https://raw.githubusercontent.com/mhrimaz/ImageProcessingJavaFX/master/BoxBlur.png "Top Sobel")
+![screenshot3](https://raw.githubusercontent.com/mhrimaz/ImageProcessingJavaFX/master/TopSobel.png "Top Sobel")
